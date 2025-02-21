@@ -23,6 +23,4 @@
 
 
 </body>
-git remote add origin https://github.com/AmyMcHargue/https---github.com-AmyMcHargue-hello-html-tab-readme-ov-file-hello-html.git
-git branch -M main
-git push -u origin main
+
